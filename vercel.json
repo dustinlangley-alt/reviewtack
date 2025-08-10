@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/send-followup.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
-}
